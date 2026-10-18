@@ -16,7 +16,7 @@ Most of the Vorta and borgmatic work was done as a *Google Summer of Code 2026* 
 ## Projects
 
 - [arcadia-artstyle-lora](https://github.com/ebuzerdrmz44/arcadia-artstyle-lora): an img2img LoRA for SDXL
-- [Queen's Colony]https://github.com/ebuzerdrmz44/Queens_Colony): A pixel-art hackathon game 
+- [Queen's Colony](https://github.com/ebuzerdrmz44/Queens_Colony): A pixel-art hackathon ant-colony game 
 
 ## Education
 
