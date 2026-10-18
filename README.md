@@ -8,7 +8,7 @@ I'm a second-year Computer Science student at Middle East Technical University (
 
 - **[Vorta](https://github.com/borgbase/vorta/pulls?q=is%3Apr+author%3Aebuzerdrmz44+is%3Amerged)** (18 merged): a scheduler refactor, a Jobs page and table model migrations
 
-- **[borgmatic](https://projects.torsion.org/borgmatic-collective/borgmatic/pulls/1346)** (1 merged): an OpenLDAP data source hook
+- **[borgmatic](https://projects.torsion.org/borgmatic-collective/borgmatic/pulls/1346)** (1 merged): an OpenLDAP data source hookolony
 - **[Borg](https://github.com/borgbackup/borg/pulls?q=is%3Apr+author%3Aebuzerdrmz44+is%3Amerged)** (2 merged): `--json` output for `borg prune` and a fix for archive cwd metadata
 
 Most of the Vorta and borgmatic work was done as a *Google Summer of Code 2026* contributor with the Python Software Foundation ([work product](https://gist.github.com/ebuzerdrmz44/4b99a9d8e96bc29642641b54b2664069)).
@@ -16,6 +16,7 @@ Most of the Vorta and borgmatic work was done as a *Google Summer of Code 2026* 
 ## Projects
 
 - [arcadia-artstyle-lora](https://github.com/ebuzerdrmz44/arcadia-artstyle-lora): an img2img LoRA for SDXL
+- [Queen's Colony]https://github.com/ebuzerdrmz44/Queens_Colony): A pixel-art hackathon game 
 
 ## Education
 
